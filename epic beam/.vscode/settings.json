@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "*.anm2": "xml",
+        ".env*": "dotenv",
+        "*.dat": "json",
+        ".anm2": "xml"
+    }
+}

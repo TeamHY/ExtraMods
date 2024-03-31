@@ -1,0 +1,9 @@
+
+<sounds root="sfx/">
+    <sound name="Epic1">
+        <sample weight="1" path="feedback/epic1.wav" />
+    </sound>
+    <sound name="Epic2">
+        <sample weight="1" path="feedback/epic2.wav" />
+    </sound>
+</sounds>
